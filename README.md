@@ -1,2 +1,0 @@
-# next-playground
-Learning Next
